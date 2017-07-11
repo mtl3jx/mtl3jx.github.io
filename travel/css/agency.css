@@ -13,7 +13,7 @@ p {
 a {
   color: #F05F40; }
   a:hover, a:focus, a:active, a.active {
-    color: #fec503; }
+    color: #ee4b28; }
 
 h1,
 h2,
@@ -78,7 +78,7 @@ body {
       color: #F05F40;
       font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
       #mainNav .container .navbar-brand:hover, #mainNav .container .navbar-brand:focus, #mainNav .container .navbar-brand:active, #mainNav .container .navbar-brand.active {
-        color: #fec503; }
+        color: #ee4b28; }
     #mainNav .container .navbar-nav .nav-item .nav-link {
       font-size: 90%;
       font-weight: 400;
@@ -526,16 +526,16 @@ ul.social-buttons {
   .btn-primary:focus, .btn-primary.focus {
     color: white;
     border-color: #b48b01;
-    background-color: #fec503; }
+    background-color: #ee4b28; }
   .btn-primary:hover {
     color: white;
-    border-color: #f6bf01;
-    background-color: #fec503; }
+    border-color: #ed431f;
+    background-color: #ee4b28; }
   .btn-primary:active, .btn-primary.active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
-    border-color: #f6bf01;
-    background-color: #fec503; }
+    border-color: #ed431f;
+    background-color: #ee4b28; }
     .btn-primary:active:hover, .btn-primary:active:focus, .btn-primary:active.focus, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus,
     .open > .btn-primary.dropdown-toggle:hover,
     .open > .btn-primary.dropdown-toggle:focus,
@@ -569,16 +569,16 @@ ul.social-buttons {
   .btn-xl:focus, .btn-xl.focus {
     color: white;
     border-color: #b48b01;
-    background-color: #fec503; }
+    background-color: #ee4b28; }
   .btn-xl:hover {
     color: white;
-    border-color: #f6bf01;
-    background-color: #fec503; }
+    border-color: #ed431f;
+    background-color: #ee4b28; }
   .btn-xl:active, .btn-xl.active,
   .open > .btn-xl.dropdown-toggle {
     color: white;
-    border-color: #f6bf01;
-    background-color: #fec503; }
+    border-color: #ed431f;
+    background-color: #ee4b28; }
     .btn-xl:active:hover, .btn-xl:active:focus, .btn-xl:active.focus, .btn-xl.active:hover, .btn-xl.active:focus, .btn-xl.active.focus,
     .open > .btn-xl.dropdown-toggle:hover,
     .open > .btn-xl.dropdown-toggle:focus,
